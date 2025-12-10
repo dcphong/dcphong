@@ -54,23 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
 </p>
 
-
-
-<hr width="100%" >
-
-<h3>My GitHub Stats</h3>
-
-<br>
-
-<span>
-<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=dcphong&show_icons=true&theme=dark&locale=en&layout=compact" alt="dcphong" /></p>
-<p>&nbsp;<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=dcphong&show_icons=true&theme=dark&locale=en" alt="dcphong" /></p>
 </span>
-<br><br>
-<span>
-
-</span>
-<br><br><br><br><br><br>
 <hr width="100%" >
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
