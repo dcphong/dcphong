@@ -13,7 +13,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Software%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+🌱 I’m currently learning **Software Develop**
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 <img align="right" height=200px alt="side_sticker" src="https://github.com/user-attachments/assets/f8d99240-b0ae-430c-832a-0acef9c75d57" />
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
